@@ -1,3 +1,6 @@
+#Skeleton loader Demo here...
+https://angular-skleton-loader.netlify.app/
+
 # SkletonScreen
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
